@@ -1,4 +1,4 @@
-## Hi there 👋
+## One day this page will become something special...
 
 <!--
 **samuraychik/samuraychik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
